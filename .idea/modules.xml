@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2322_EinfacheAufgaben/2322_EinfacheAufgaben.iml" filepath="$PROJECT_DIR$/2322_EinfacheAufgaben/2322_EinfacheAufgaben.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BMI/BMI.iml" filepath="$PROJECT_DIR$/BMI/BMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Euklid/Euklid.iml" filepath="$PROJECT_DIR$/Euklid/Euklid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kreisflaeche/Kreisflaeche.iml" filepath="$PROJECT_DIR$/Kreisflaeche/Kreisflaeche.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quersumme/Quersumme.iml" filepath="$PROJECT_DIR$/Quersumme/Quersumme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ratespiel/Ratespiel.iml" filepath="$PROJECT_DIR$/Ratespiel/Ratespiel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spielereien/Spielereien.iml" filepath="$PROJECT_DIR$/Spielereien/Spielereien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sternendreieck/Sternendreieck.iml" filepath="$PROJECT_DIR$/Sternendreieck/Sternendreieck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vollkommene Zahl/Vollkommene Zahl.iml" filepath="$PROJECT_DIR$/Vollkommene Zahl/Vollkommene Zahl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zeitumrechnung/Zeitumrechnung.iml" filepath="$PROJECT_DIR$/Zeitumrechnung/Zeitumrechnung.iml" />
+    </modules>
+  </component>
+</project>

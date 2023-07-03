@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2322_Arrays" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2322_Bruchrechnen" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2322_EinfacheAufgaben" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2322_Filmverwaltung" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2322_Gibspiel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2322_Grundformen" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2322_Kartenspiel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2322_Koenigreich" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2322_Kofferpacken" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2322_Person_Klausuraufgabe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2322_Primzahlgenerator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2322_Strings" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2322_Teilnehmer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2322_Waehrungsrechner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2322_WasSieAllesUeberMethodenWissenSollten" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2322_Zahlenspeicher" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2512_Collections" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java_2322" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MailValidator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OOP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Shogi_Android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Snake_DO_IT/Snake_DO_IT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Strings_2322" vcs="Git" />
+  </component>
+</project>
